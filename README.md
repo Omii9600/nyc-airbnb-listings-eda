@@ -89,6 +89,5 @@ Extend the regression to include neighbourhood and distance to the city centre, 
 ├── airbnb_listing_market_eda.ipynb   # full analysis with saved outputs
 ├── images/                           # charts used in this README
 ├── data/                             # put airbnb.csv here (not committed)
-├── requirements.txt
 └── README.md
 ```
